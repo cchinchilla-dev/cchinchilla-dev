@@ -9,7 +9,7 @@
   <a href="https://orcid.org/0009-0001-4495-8179">ORCID</a> ·
   <a href="https://scholar.google.com/citations?user=5lYczd4AAAAJ">Scholar</a> ·
   <a href="https://www.linkedin.com/in/cchinchilla/">LinkedIn</a> ·
-  <a href="https://bsky.app/profile/cchinchilla.dev">Bluesky</a>
+  <a href="https://substack.com/@cchinchilla">Substack</a>
 </p>
 
 ---
@@ -23,7 +23,7 @@ and production systems.
 
 <sub>PROJECTS</sub>
 
-### Open-source tools
+#### Open-source tools
 
 <sub>For evaluating and orchestrating ML systems, and the tooling around the work.</sub>
 
@@ -36,7 +36,7 @@ and production systems.
 
 <sub>OPEN SOURCE</sub>
 
-### Contributions
+#### Contributions
 
 <sub>Patches, primitives, and bug reports across the agent-tooling ecosystem.</sub>
 
@@ -47,7 +47,7 @@ and production systems.
 
 <sub>PUBLICATIONS</sub>
 
-### Peer-reviewed work
+#### Peer-reviewed work
 
 <sub>Batteries, IEEE Access, and a Springer chapter. Full record on <a href="https://orcid.org/0009-0001-4495-8179">ORCID</a>.</sub>
 
