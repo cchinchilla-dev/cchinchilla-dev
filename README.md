@@ -9,6 +9,7 @@
   <a href="https://orcid.org/0009-0001-4495-8179">ORCID</a> ·
   <a href="https://scholar.google.com/citations?user=5lYczd4AAAAJ">Scholar</a> ·
   <a href="https://www.linkedin.com/in/cchinchilla/">LinkedIn</a> ·
+  <a href="https://huggingface.co/cchinchilla-dev">Hugging Face</a> ·
   <a href="https://substack.com/@cchinchilla">Substack</a>
 </p>
 
