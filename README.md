@@ -45,6 +45,7 @@ and production systems.
 |---|---|---|
 | `2026` | **[a2aproject/a2a-python](https://github.com/a2aproject/a2a-python)** — standardised async client lifecycle, JSON canonicalisation fix (RFC 8785) for cryptographic signatures. | `Contributor` |
 | `2026` | **[a2aproject/a2a-go](https://github.com/a2aproject/a2a-go)** — REST streaming error alignment with JSON-RPC and gRPC, executable documentation validated by `go test`. | `Contributor` |
+| `2026` | **[i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework)** — per-task cancellation in the A2A server for blocking and streaming clients, agent cloning that keeps the client configuration. | `Contributor` |
 
 <sub>PUBLICATIONS</sub>
 
