@@ -62,22 +62,11 @@ Deterministic LLM workflow orchestration. You define the execution graph; the mo
 </table>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**[swiftbar-devkit](https://github.com/cchinchilla-dev/swiftbar-devkit)**&nbsp; `Alpha`
-
-Four macOS menu bar tools. No daemon, no telemetry, one config file.
-
-</td>
-<td width="50%" valign="top">
-
-**[vocal-biomarkers-ml](https://github.com/cchinchilla-dev/vocal-biomarkers-ml)**&nbsp; `Archived`
-
-Reproducible ML pipeline for respiratory-disease detection from voice.
-
-</td>
-</tr>
+<thead><tr><th></th><th></th><th></th></tr></thead>
+<tbody>
+<tr><td><code>2026</code></td><td width="100%"><b><a href="https://github.com/cchinchilla-dev/swiftbar-devkit">swiftbar-devkit</a></b> — four macOS menu bar tools. No daemon, no telemetry, one config file.</td><td><code>Alpha</code></td></tr>
+<tr><td><code>2024</code></td><td width="100%"><b><a href="https://github.com/cchinchilla-dev/vocal-biomarkers-ml">vocal-biomarkers-ml</a></b> — reproducible ML pipeline for respiratory-disease detection from voice.</td><td><code>Archived</code></td></tr>
+</tbody>
 </table>
 
 <sub>OPEN SOURCE</sub>
