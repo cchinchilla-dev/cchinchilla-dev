@@ -28,12 +28,57 @@ and production systems.
 
 <sub>For evaluating and orchestrating ML systems, and the tooling around the work.</sub>
 
-| | | |
-|---|---|---|
-| `2026` | **[agentanvil](https://github.com/cchinchilla-dev/agentanvil)** — contract-driven testing for LLM-based and multi-agent systems. Portable across runtimes. | `In development` |
-| `2026` | **[agentloom](https://github.com/cchinchilla-dev/agentloom)** — deterministic LLM workflow orchestration. You define the execution graph; the model only fills in content. | `In development` |
-| `2026` | **[swiftbar-devkit](https://github.com/cchinchilla-dev/swiftbar-devkit)** — four macOS menu bar tools. No daemon, no telemetry, one config file. | `Alpha` |
-| `2024` | **[vocal-biomarkers-ml](https://github.com/cchinchilla-dev/vocal-biomarkers-ml)** — reproducible ML pipeline for respiratory-disease detection from voice. | `Archived` |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/cchinchilla-dev/agentanvil">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cchinchilla-dev/agentanvil/main/docs/images/header_dark.svg#svgView(viewBox(20%2C20%2C715%2C160))">
+    <img src="https://raw.githubusercontent.com/cchinchilla-dev/agentanvil/main/docs/images/header_light.svg#svgView(viewBox(20%2C20%2C715%2C160))" alt="agentanvil" height="40">
+  </picture>
+</a>
+
+<a href="https://pypi.org/project/agentanvil/"><img src="https://img.shields.io/pypi/v/agentanvil?label=pypi&color=555" alt="PyPI version" align="absmiddle"></a>&nbsp; `pip install agentanvil`
+
+Contract-driven testing for LLM-based and multi-agent systems. Portable across runtimes.
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/cchinchilla-dev/agentloom">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cchinchilla-dev/agentloom/main/docs/images/header_dark.svg#svgView(viewBox(20%2C20%2C727%2C160))">
+    <img src="https://raw.githubusercontent.com/cchinchilla-dev/agentloom/main/docs/images/header_light.svg#svgView(viewBox(20%2C20%2C727%2C160))" alt="agentloom" height="40">
+  </picture>
+</a>
+
+<a href="https://pypi.org/project/agentloom/"><img src="https://img.shields.io/pypi/v/agentloom?label=pypi&color=555" alt="PyPI version" align="absmiddle"></a>&nbsp; `pip install agentloom`
+
+Deterministic LLM workflow orchestration. You define the execution graph; the model only fills in content.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[swiftbar-devkit](https://github.com/cchinchilla-dev/swiftbar-devkit)**&nbsp; `Alpha`
+
+Four macOS menu bar tools. No daemon, no telemetry, one config file.
+
+</td>
+<td width="50%" valign="top">
+
+**[vocal-biomarkers-ml](https://github.com/cchinchilla-dev/vocal-biomarkers-ml)**&nbsp; `Archived`
+
+Reproducible ML pipeline for respiratory-disease detection from voice.
+
+</td>
+</tr>
+</table>
 
 <sub>OPEN SOURCE</sub>
 
