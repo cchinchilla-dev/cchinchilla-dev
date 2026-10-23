@@ -39,7 +39,7 @@ and production systems.
   </picture>
 </a>
 
-<a href="https://pypi.org/project/agentanvil/"><img src="https://img.shields.io/pypi/v/agentanvil?label=pypi&color=555" alt="PyPI version" align="absmiddle"></a>&nbsp; `pip install agentanvil`
+`v0.1.1`&nbsp; `pip install agentanvil`
 
 Contract-driven testing for LLM-based and multi-agent systems. Portable across runtimes.
 
@@ -53,7 +53,7 @@ Contract-driven testing for LLM-based and multi-agent systems. Portable across r
   </picture>
 </a>
 
-<a href="https://pypi.org/project/agentloom/"><img src="https://img.shields.io/pypi/v/agentloom?label=pypi&color=555" alt="PyPI version" align="absmiddle"></a>&nbsp; `pip install agentloom`
+`v0.4.0`&nbsp; `pip install agentloom`
 
 Deterministic LLM workflow orchestration. You define the execution graph; the model only fills in content.
 
