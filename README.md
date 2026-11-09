@@ -77,9 +77,9 @@ Deterministic LLM workflow orchestration. You define the execution graph; the mo
 
 | | | |
 |---|---|---|
-| `2026` | **[a2aproject/a2a-python](https://github.com/a2aproject/a2a-python)** — standardised async client lifecycle, JSON canonicalisation fix (RFC 8785) for cryptographic signatures. | `Contributor` |
-| `2026` | **[a2aproject/a2a-go](https://github.com/a2aproject/a2a-go)** — REST streaming error alignment with JSON-RPC and gRPC, executable documentation validated by `go test`. | `Contributor` |
-| `2026` | **[i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework)** — per-task cancellation in the A2A server for blocking and streaming clients, agent cloning that keeps the client configuration. | `Contributor` |
+| `2026` | **[a2aproject/a2a-python](https://github.com/a2aproject/a2a-python)** — standardised async client lifecycle and a JSON canonicalisation fix (RFC 8785) for cryptographic signatures, in its 1.0 release; later, server fixes for leaked task queues and the cluster task store. | `Contributor` |
+| `2026` | **[a2aproject/a2a-go](https://github.com/a2aproject/a2a-go)** — REST streaming error alignment with JSON-RPC and gRPC, executable documentation validated by `go test`, service-parameter and artifact-recovery fixes shipped in v2.8.0. | `Contributor` |
+| `2026` | **[i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework)** — per-task cancellation in the A2A server for blocking and streaming clients, agent cloning that keeps the client configuration, an MCP server fix for required prompt arguments. | `Contributor` |
 
 <sub>PUBLICATIONS</sub>
 
