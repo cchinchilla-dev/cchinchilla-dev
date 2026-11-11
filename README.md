@@ -53,7 +53,7 @@ Contract-driven testing for LLM-based and multi-agent systems. Portable across r
   </picture>
 </a>
 
-`v0.4.0`&nbsp; `pip install agentloom`
+`v0.5.0`&nbsp; `pip install agentloom`
 
 Deterministic LLM workflow orchestration. You define the execution graph; the model only fills in content.
 
