@@ -85,10 +85,11 @@ Deterministic LLM workflow orchestration. You define the execution graph; the mo
 
 #### Peer-reviewed work
 
-<sub>Batteries, IEEE Access, and a Springer chapter. Full record on <a href="https://orcid.org/0009-0001-4495-8179">ORCID</a>.</sub>
+<sub>Information and Software Technology, Batteries, IEEE Access, and a Springer chapter. Full record on <a href="https://orcid.org/0009-0001-4495-8179">ORCID</a>.</sub>
 
 | | | |
 |---|---|---|
+| `2026` | [Production-Oriented Evaluation and Testing of LLM-Based Agents: A Systematic Literature Review](https://doi.org/10.1016/j.infsof.2026.108390)<br><sub>Information and Software Technology</sub> | `Paper` |
 | `2025` | [Advanced Machine Learning and Deep Learning Approaches for Estimating the Remaining Life of EV Batteries — A Review](https://doi.org/10.3390/batteries11010017)<br><sub>Batteries</sub> | `Paper` |
 | `2024` | [Application of Machine Learning Techniques for the Characterization and Early Diagnosis of Respiratory Diseases such as COVID-19](https://doi.org/10.1109/ACCESS.2024.3487773)<br><sub>IEEE Access</sub> | `Paper` |
 | `2024` | [From Waste to Wealth: Circular Economy Approaches for Recycled EV Batteries in Energy Storage](https://doi.org/10.1007/978-3-031-66635-3_32)<br><sub>New Trends in Disruptive Technologies, Tech Ethics, and Artificial Intelligence</sub> | `Chapter` |
